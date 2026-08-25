@@ -1,4 +1,4 @@
-<body color="darkblue">
+
 <h1 align="center">Hi there, I'm Shayan Ahmad👋</h1>
 
 <h3 align="center">Mobile App & Web Developer building clean, functional, user-focused products</h3>
@@ -105,4 +105,4 @@ Pin your best 2-4 repos here.
   <img src="https://komarev.com/ghpvc/?username=shayanx4849&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-</body>
+
