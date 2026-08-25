@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Shayan 👋</h1>
+<h1 align="center">Hi there, I'm Shayan Ahmad👋</h1>
 
 <h3 align="center">Mobile App & Web Developer building clean, functional, user-focused products</h3>
 
