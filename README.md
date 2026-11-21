@@ -94,7 +94,7 @@ Pin your best 2-4 repos here.
   <a href="mailto:YOUR-EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+  <a href="https://portpolio-eta-three.vercel.app/" target="_blank">
     <img src="https://portpolio-eta-three.vercel.app/" />
   </a>
 </p>
