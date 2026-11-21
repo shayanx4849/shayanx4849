@@ -95,7 +95,7 @@ Pin your best 2-4 repos here.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portpolio-eta-three.vercel.app/" target="_blank">
-    <img src="<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />" />
+    <img src="<img src=https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white />" />
   </a>
 </p>
 
